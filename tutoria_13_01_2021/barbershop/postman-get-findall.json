@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3,
+    "date": "2022-01-05T16:37:55.689625",
+    "duration": 60,
+    "description": "Lorem ipsum dolor sit amet",
+    "hairAssistance": null,
+    "employee": null
+  },
+  {
+    "id": 1,
+    "date": "2022-01-14T10:30:00",
+    "duration": 60,
+    "description": "Lorem ipsum dolor sit amet",
+    "hairAssistance": {
+      "id": 2,
+      "name": "Corte Pelo femenino",
+      "price": 20.0,
+      "duration": 80
+    },
+    "employee": {
+      "id": 1,
+      "firstName": "emp1",
+      "lastName": "emp1",
+      "email": "emp1@company.com",
+      "birthDate": null,
+      "nss": "12345",
+      "dni": "8765674H"
+    }
+  },
+  {
+    "id": 2,
+    "date": "2022-01-05T16:37:55.686127",
+    "duration": 60,
+    "description": "Lorem ipsum dolor sit amet",
+    "hairAssistance": {
+      "id": 2,
+      "name": "Corte Pelo femenino",
+      "price": 20.0,
+      "duration": 80
+    },
+    "employee": {
+      "id": 1,
+      "firstName": "emp1",
+      "lastName": "emp1",
+      "email": "emp1@company.com",
+      "birthDate": null,
+      "nss": "12345",
+      "dni": "8765674H"
+    }
+  }
+]
