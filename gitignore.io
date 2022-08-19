@@ -100,3 +100,5 @@ spring-boot-modules/spring-boot-properties-3/*.log
 
 # SDKMan
 .sdkmanrc
+
+#FICHERO MODIFICADO PARA PRUEBAS DE GIT
