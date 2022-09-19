@@ -104,3 +104,4 @@ spring-boot-modules/spring-boot-properties-3/*.log
 #Ficheros .c no iran aqui
 *.c
 *.lkf
+.py
