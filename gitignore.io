@@ -98,5 +98,6 @@ spring-boot-modules/spring-boot-react/frontend/node
 spring-boot-modules/spring-boot-react/frontend/yarn.lock
 spring-boot-modules/spring-boot-properties-3/*.log
 
+# ficheros .c no estan
+*.c
 # SDKMan
-.sdkmanrc
