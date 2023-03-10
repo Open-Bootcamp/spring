@@ -34,6 +34,8 @@ log/*
 target/
 
 # Gradle
+
+# Ficheros .c no test
 .gradle/
 
 spring-openid/src/main/resources/application.properties
