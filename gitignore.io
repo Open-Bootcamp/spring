@@ -100,3 +100,7 @@ spring-boot-modules/spring-boot-properties-3/*.log
 
 # SDKMan
 .sdkmanrc
+
+#Fichero .c no irán aquí
+*.c
+
